@@ -9,3 +9,5 @@ onexit also supports a background, that e.g. darkens the page behind the pop-up.
 In your CSS define a class called 'hide', where 'display' is set to 'none'.
 
 Right now onexit depends on JQuery (\>= 2.x.x). I'll remove the dependency asap.
+
+Licence: MIT
